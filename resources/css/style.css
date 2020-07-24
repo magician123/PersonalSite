@@ -1,0 +1,116 @@
+
+/*-----------General-------------*/
+body{
+   margin: 0;
+   text-align: center;
+   font-family: 'Noto Serif', serif; 
+}
+
+h1{
+   margin-top: 50px;
+   margin-bottom: 0px;
+   font-family: 'Sacramento', cursive;
+   font-size: 5.265rem;
+   color: #1f4068;
+}
+h2{
+   font-family: 'Noto Serif', serif; 
+   font-size: 2.5rem;
+   color: #1f4068;  
+}
+h3{
+   font-family: 'Lato', sans-serif;
+   color: #1f4068;
+   font-size: 1.25rem;
+}
+
+  
+
+/*
+
+
+*/
+/*-----------Landing Page/Top Page-------------*/
+.top-cloud{
+   position: absolute;
+   right: 300px;
+   top: 50px;
+}
+
+.bottom-cloud{
+   position: absolute;
+   left: 300px;
+   bottom: 300px;
+
+   }
+.top_container{
+   background-color: red;
+   position: relative;
+   padding-top:100px ;
+}
+.top_container h2{
+   font-weight: normal;
+   line-height: 2;
+}
+
+/*-----------Middle Page-------------*/
+.middle_container{
+
+  
+}
+.skills{
+margin-bottom: 150px;
+}
+
+.skill-row{
+   width: 50%;
+   margin: 0px auto 100px auto;
+   text-align: left;
+   line-height: 2;
+   
+ 
+}
+.tshepiso{
+   height: 200px;
+   width: 200px;
+   border-radius: 50%;
+   -webkit-border-radius: 50%;
+   -moz-border-radius: 50%;
+   -ms-border-radius: 50%;
+   -o-border-radius: 50%;
+}
+.skills-image{
+   height: 200px;
+   width: 250px;
+   margin-bottom: 0;
+   border-radius: 25%;
+   -webkit-border-radius: 25%;
+   -moz-border-radius: 25%;
+   -ms-border-radius: 25%;
+   -o-border-radius: 25%;
+}
+.computer-image{
+   height: 150px;
+   width: 200px;
+   margin-right:30px;
+   margin-top: 0px;
+   float: left;
+   border-radius: 50%;
+}
+.whiteboard-image{
+   height: 200px;
+   width: 200px;
+   float: right;
+   margin-left:30px;
+   border-radius: 50%;
+   -webkit-border-radius: 50%;
+   -moz-border-radius: 50%;
+   -ms-border-radius: 50%;
+   -o-border-radius: 50%;
+}
+
+
+/*-----------Bottom Page-------------*/
+.bottom_container{
+
+}
